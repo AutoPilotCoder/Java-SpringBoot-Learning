@@ -1,4 +1,4 @@
-# Java-SpringBoot-Learning
+# Java + SpringBoot Learning
 
 This repository is non-commercial and is solely dedicated to 
   1. the record of the learning process for Java & SpringBoot by AutoPilotCoder
